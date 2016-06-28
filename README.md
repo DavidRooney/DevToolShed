@@ -112,7 +112,7 @@ If you want to print this off then use [THIS!](https://gitprint.com/)
 ## Learning Resources
 * [Pluralsight](https://www.pluralsight.com/) - A very good video only learning resource for business people, developers and designers.
 * [Lynda](http://www.lynda.com/in/general2) (LinkedIn) - A video learning resourced focusing on wider business skills.
-* YouTube
+* [YouTube](https://www.youtube.com/) - Notes about this written in the 'social media' section.
 
 ## CMS
 * [Orchard](http://orchardproject.net/) - A Free CMS created by Microsoft developers. Extremely powerful. [github code](https://github.com/OrchardCMS/Orchard).
