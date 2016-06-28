@@ -1,4 +1,4 @@
-# Daves Dev Tool Shed
+# Daves Dev Shed
 A collection of tools, libraries, services and various other things I want to keep in my Dev Shed
 ---
 If you want to print this off then use [THIS!](https://gitprint.com/)
@@ -81,7 +81,7 @@ If you want to print this off then use [THIS!](https://gitprint.com/)
 * [Jamie Coulter](http://www.jamiecoulter.co.uk/) - A designer and front-end developer. [codePen](http://codepen.io/jcoulterdesign/).
 * [Paul Boag](https://boagworld.com/) - A UX consultant.
 
-## Blogs & News Feeds & Podcasts
+## News Feeds & Podcasts
 * [HackerNews](https://news.ycombinator.com/) - My Number 1 resource for keeping up to date with the altest tech news. Can often find some hidden gems here. I like to use the [newest tab to get the latest news](https://news.ycombinator.com/newest).
 * [StumbleUpon](http://www.stumbleupon.com/) - A website that will find other random websites and articles based around interests you select. 
 * [Stackoverflow](http://stackoverflow.com/) - The most popular Q&A website for programmers.
@@ -89,6 +89,30 @@ If you want to print this off then use [THIS!](https://gitprint.com/)
 * [Podcast: The BoagWorld](https://boagworld.com/show/) - discuss a range of web design related topics with various guests.
 * [Podcast: HanselMinutes](http://hanselminutes.com/)
 * [Podcast: .NET Rocks!](https://www.dotnetrocks.com/) - A .NET podcast.
+
+## Blogs
+* [CatsWhoCode](http://www.catswhocode.com/blog/) - A very up to date blog offering tips and trickes on a range of dev related subjects.
+* [MorningBrew](http://blog.cwa.me.uk/) - A .Net link blog with daily updates.
+* [Channel9](https://channel9.msdn.com/) - Video content from Microsoft
+* [David Hayden](http://www.davidhayden.me/) - An Orchard Developer who [blogs](http://www.davidhayden.me/blog) about Orchard and gives tutorials.
+* [The Continuous Improver](http://www.continuousimprover.com/) - Developer blogging about development related topics.
+* [CodeTeddy](https://codeteddy.com/) - Developer blog focused around .NET technologies.
+* [Google Research](https://research.googleblog.com/) - The blog for Google Research
+* [CodeProject](http://www.codeproject.com/script/Articles/Latest.aspx?at=1,3,7) - A community based blog that allows user to submit code based articles and categorize them. Can often see people testing out new tech.
+* [Scott Hanselman's Blog](http://www.hanselman.com/blog/) - A .NET related blog by Scott Hanselman. See the 'people' section.
+* [thebeebs](https://blogs.msdn.microsoft.com/thebeebs/) - A microsoft developer blog who posts on occasion.
+* [CommitStrip](http://www.commitstrip.com/en/?) - A fun comic strip based website that posts comic book like sketches for developers.
+* [KnowYourCompany](https://blog.knowyourcompany.com/) - A blog for company leaders and employees. Thoughts on building, leading, and communicating within a company.
+* [GitHub's blog](https://github.com/blog) - A geneeral coding and interesting blog by GitHub.
+* [Jeremy Keith Blog](https://adactio.com/) - A front-end developer's blog. Mostly focuses on mark up and css.
+* [Oren Eini Blog](https://ayende.com/blog/) - A blog by the creator of RavenDB. some interesting stuff about .NEt and databases. A lot about RavenDB (obviously).
+* [Todoist App Blog](https://blog.todoist.com/) - A blog focusing on managing time and helping people.
+* [Moz Blog](https://moz.com/blog) - An SEO related blog.
+* [Fog Creek Blog](http://blog.fogcreek.com/) - A blog fromt he creattors of stack overflow and trello. some interesting stuff about project life cycles and management.
+* [Bonusly Blog](http://blog.bonus.ly/) - Blogging about how to motivate people.
+* [Sam Altman Blog](http://blog.samaltman.com/) - Blogging about his thoughts. could be anything but always an interesting read.
+* [CodePen Blog](https://blog.codepen.io/) - Topics focused around front end development.
+* [BoagWorld Blog](https://boagworld.com/blog) - advice and thoughts on UX and design.
 
 ## Chrome Plugins
 * [Web developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) - Adds very powerful web developer tools such as disabling JavaScript and css, clearing cookies and cache, responsive layouts and more.
