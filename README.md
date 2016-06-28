@@ -10,35 +10,28 @@ If you want to print this off then use [THIS!](https://gitprint.com/)
 * [Kiln](http://www.fogcreek.com/kiln/) - Version Control and Source Code Hosting. [Pricing](http://www.fogcreek.com/kiln/pricing/) from $18 for 5 users, to $1080 PCM for 500 users.
 
 ## Visual Studio
-* WebCompiler
-* WebEssentials
-* BundlerMinifier
-* GhostDoc
-* ReSharper
-
-## Web Tools
-* Octopus
-* Gatling
+* [WebCompiler](https://visualstudiogallery.msdn.microsoft.com/3b329021-cd7a-4a01-86fc-714c2d05bb6c) - An extension for compiling SASS, LESS, CoffeeScript.
+* [WebEssentials](http://vswebessentials.com/) - Has too many features to summarize here!. Just get it and look.
+* [BundlerMinifier](https://visualstudiogallery.msdn.microsoft.com/9ec27da7-e24b-4d56-8064-fd7e88ac1c40) - Adds support for bundling and minifying JavaScript, CSS and HTML files in any project
+* [GhostDoc](http://submain.com/products/ghostdoc.aspx) - automatically generates XML documentation comments for methods and properties based on their type, parameters, name, and other contextual information
+* [ReSharper](https://visualstudiogallery.msdn.microsoft.com/ea4ac039-1b5c-4d11-804e-9bede2e63ecf) - ReSharper is a popular developer productivity extension for Microsoft Visual Studio. It automates most of what can be automated in your coding routines. It finds compiler errors, runtime errors, redundancies, code smells, and possible improvements right as you type, suggesting intelligent corrections for them
 
 ## Apps
-* Instapaper
-* Google Keep
-* Todoist
-* OneNote
-* EverNote
-* MailChimp
-* Slack
-* Google Hangouts
-* Salesforce
-* Dropbox
+* [Instapaper](https://www.instapaper.com/u) - Save any article on the Web into your personal Instapaper account. Can then use any device to read them later. Can create folders and drag articles into folders that you want to save and organize. Can also be used to save notes and videos.
+* [Google Keep](https://www.google.com/keep/) - Simple note taking app that can be accessed from any device. links to a gmail account. functionality includes colour coding, labelling and archiving. This one is the easiest to set up and start using and is free.
+* [Todoist](https://en.todoist.com/) - List checking app that can sync across devices. lists can also be shared with multiple users working off a list at the same time.
+* [OneNote](https://www.onenote.com/) - Office 365's note taking app. very interactive and powerful and works on all devices.
+* [EverNote](https://evernote.com) - Another note taking app. Free for 60mb of uploads pcm, £20 per year for 1GB, £35 per year for 10GB
+* [Slack](https://slack.com/) - A messaging app for Teams. Free, paid version for additional features. Standard is $8 per month per user, Pro is $15.
+* [Google Hangouts](https://hangouts.google.com/) - A free messaging app that can be used to make calls and send images.
+* [Dropbox](https://www.dropbox.com/) - Online File transfer app.
 * [Gigjam](https://www.microsoft.com/gigjam) - Business to Client communication platform by Microsoft. allows a customer to easily and quickly review documents, edit them or sign them off. Also works on all devices. Video on the home page shows how powerful this is.
 
 ## Social Media
-* Twitter - People to follow:
-* LinkedIn
-* GitHub
+* [Twitter](https://twitter.com/) - A good resource for keeping up to date. I have a dev account set up which I use to just follow people within my industry. This helps me stay up to date. To see who I have followed look at my dev twitter handle @DaveRooney_Dev.
 * [CodePen](http://codepen.io/) - Also listed in the 'Online Tools' section. Here because it has an online community.
 * [Plunker](http://plnkr.co/) - Also listed in the 'Online Tools' section. Here because it has an online community.
+* [YouTube](https://www.youtube.com/) - A very good resource for keeping up to date with the latest tech. very easy to search for people or tech or companies and view previous talks and sessions held by them. My [personal YoutTube channel](https://www.youtube.com/channel/UCLg1XOsMLS-xYm9TBBjsQIQ) contains a few playlists of things important to me. Worth creating a developer only account or playlist.
 
 ## Libraries, Useful APIs & Web plugins
 * [microJS](http://microjs.com/) - Use this to search for a JavaScript library.
@@ -82,26 +75,28 @@ If you want to print this off then use [THIS!](https://gitprint.com/)
 * [GooglePageSpeed](https://developers.google.com/speed/pagespeed/insights/) - Test how a website performs. [A front-end that uses google pagespeed](https://testmysite.thinkwithgoogle.com/).
 
 ## People
-* [Scott Hanselman](http://www.hanselman.com/) - A Microsoft Programmer and speaker.
+* [Scott Hanselman](http://www.hanselman.com/) - A Microsoft developer, blogger and speaker.
 * [Rob Conery](http://rob.conery.io/) - Programmer. [github](https://github.com/robconery).
 * [Harry Roberts](http://csswizardry.com/) - A Consultant Front-end Architect, designer, developer, writer and speaker from the UK. Specialises in CSS and front-end [github](https://github.com/csswizardry).
 * [Jamie Coulter](http://www.jamiecoulter.co.uk/) - A designer and front-end developer. [codePen](http://codepen.io/jcoulterdesign/).
+* [Paul Boag](https://boagworld.com/) - A UX consultant.
 
 ## Blogs & News Feeds & Podcasts
-* HackerNews
-* Pintrest
-* StumbleUpon
+* [HackerNews](https://news.ycombinator.com/) - My Number 1 resource for keeping up to date with the altest tech news. Can often find some hidden gems here. I like to use the [newest tab to get the latest news](https://news.ycombinator.com/newest).
+* [StumbleUpon](http://www.stumbleupon.com/) - A website that will find other random websites and articles based around interests you select. 
 * [Stackoverflow](http://stackoverflow.com/) - The most popular Q&A website for programmers.
-* Podcast: This Developer's Life
-* Podcast: The BoagWorld
-* Podcast: HanselMinutes
-* Podcast: .NET Rocks!
+* [Podcast: This Developer's Life](http://thisdeveloperslife.com/) - A podcast about developers and their lives.
+* [Podcast: The BoagWorld](https://boagworld.com/show/) - discuss a range of web design related topics with various guests.
+* [Podcast: HanselMinutes](http://hanselminutes.com/)
+* [Podcast: .NET Rocks!](https://www.dotnetrocks.com/) - A .NET podcast.
 
 ## Chrome Plugins
-* Web developer - Adds very powerful web developer tools such as disabling JavaScript and css, clearing cookies and cache, responsive layouts and more.
-* ALine - plugin in to add grid lines. useful during design.
-* PageRuler - Adds a resizable box to measure pixel sizes.
-* Browser Calories - Measures page performance.
+* [Web developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) - Adds very powerful web developer tools such as disabling JavaScript and css, clearing cookies and cache, responsive layouts and more.
+* [ALine](https://chrome.google.com/webstore/detail/aline/boppgjhbompfopkkoennehibjldcfjda?hl=en-GB) - plugin in to add grid lines. useful during design.
+* [PageRuler](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn?hl=en) - Adds a resizable box to measure pixel sizes.
+* [Browser Calories](https://chrome.google.com/webstore/detail/browser-calories/pdkibgfjegigkoaleelbkdpkgceljfco?hl=en) - Measures page performance.
+* [Instapaper plugin](https://chrome.google.com/webstore/detail/instapaper/ldjkgaaoikpmhmkelcgkgacicjfbofhh?hl=en) - Save a webpage to Instapaper with a single button click.
+* [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen?hl=en) - A spell checker.
 
 ## Software
 * [RealVNC](https://www.realvnc.com) - Remote desktop access. Easy software for setting up RDP and free for non-commercial use.
@@ -126,6 +121,9 @@ If you want to print this off then use [THIS!](https://gitprint.com/)
 * [Django](http://www.django-cms.org/) - A popular CMS written in Python and JavaScript. very powerful and attractive. [github code](https://github.com/divio/django-cms).
 
 ## Services
+* [Octopus](https://octopus.com/) - .NET deployment tool. Free for 5 users to 10 machines. 20 users,projects, machines for $700 per year. 60 = $2000, unlimited = $5000.
+* [Gatling](http://gatling.io/#/) - Free open source load testing framework.
+* [JIRA](https://www.atlassian.com/software/jira) - A software development tool for task management used by agile teams.
 * [Bonusly](https://bonus.ly/) - An online service to give bonus'. This is a paid service that can control how bonus' are given out within a company. A manager or individual is given a bonus allowance that they can give out to colleagues in small increments to recognize achievements. Free for up to 8 users. £2.27 pcm for the standard version allowing unlimited users ([pricing](https://bonus.ly/pricing)).
 * [knowyourcompany](https://knowyourcompany.com/) - Staff wellbeing communication service. [Pricing](https://knowyourcompany.com/pricing) is $100 per employee. only paid once
 * [TinyPulse](https://www.tinypulse.com/) - Staff wellbeing communication service. [Pricing](https://www.tinypulse.com/Pricing) ranges from $5 per user pcm to $15.
@@ -135,6 +133,10 @@ If you want to print this off then use [THIS!](https://gitprint.com/)
 * [TimelyApp](https://www.timelyapp.com/) - An attractive time tracking service. [Pricing](https://www.timelyapp.com/pricing) Free for a single user then $14 pcm for more than unlimited users.
 * [Fogbugz](https://www.fogcreek.com/fogbugz) - Bug tracking and project management online service. Provides Issue and bug tracking, Agile project planning, project management, Time tracking and more. [Pricing](https://www.fogcreek.com/fogbugz/pricing/ondemand.html) from $18 pcm for 5 users to $1080 PCM for 500 users.
 * [Ideanote](https://www.ideanote.dk/) - A service for employees to suggest ideas and help solve challenges faced by an organisation. Allows for ideas to be rated and discussed. [Pricing](https://www.ideanote.dk/pricing) from €4 per user pcm.
-* [Trello](https://trello.com/home) - A free service and online tool for managing and organizing projects. Makes use of "boards" to promote an agile approach collaboration between members of a board. [Pricing](https://trello.com/pricing) is free but offers a business version for $8.33 pcm (intergrates with other online apps e.g. dropbox, github, mailchimp, slack) and an Enterprise version for $20.83 pcm.
-* [Mailchimp](http://mailchimp.com/) - Email automation service. [Pricing](http://mailchimp.com/pricing/) is Free from upto 2000 subscribers and 12,000 emails pcm, to £18.19 pcm for 2000 subscribers and unlimited emails pcm. There is also a pay-as-you-go option.
+* [Trello](https://trello.com/home) - A free service and online tool for managing and organizing projects. Makes use of "boards" to promote an agile approach collaboration between members of a board. [Pricing](https://trello.com/pricing) is free but offers a business version for $8.33 pcm (integrates with other online apps e.g. dropbox, github, mailchimp, slack) and an Enterprise version for $20.83 pcm.
+* [Mailchimp](http://mailchimp.com/) - Email automation service. [Pricing](http://mailchimp.com/pricing/) is Free from up to 2000 subscribers and 12,000 emails pcm, to £18.19 pcm for 2000 subscribers and unlimited emails pcm. There is also a pay-as-you-go option.
 * [InVision](https://www.invisionapp.com/) - Design prototyping online tool. can be used to create website, mobile and tablet interactive designs. [Pricing](https://www.invisionapp.com/plans) is free for 1 prototype, $15 pcm for 3 and $99 pcm for unlimited.
+* [Salesforce](http://www.salesforce.com/uk/) - CRM solution
+
+## Extras
+* "data:text/html, <html contenteditable>" Save this code as a bookmark to open a basic notepad text editor in your browser.
