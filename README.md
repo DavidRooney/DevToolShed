@@ -43,6 +43,7 @@ If you want to print this off then use [THIS!](https://gitprint.com/)
 * [tracking.js](https://trackingjs.com/) - Vision tracking JS. Brings vision tracking to a browser to detect faces, colours and much more.
 * [flatpickr.js Calendar](https://github.com/chmln/flatpickr) - A JavaScript library for creating calendars. The smallest one I've seen and works brilliantly.
 * [BootBoxJS](http://bootboxjs.com/) - a js library for modal pop ups that uses bootstrap classes.
+* [LargeEventCalendar](http://fullcalendar.io/) - [github](https://github.com/elebetsamer/fullcalendar). A very good interactive drag and drop calendar made using jQuery.
 
 ## Web & CSS Related
 * [Effeckt.css](http://h5bp.github.io/Effeckt.css/) - CSS Library of attractive animations for every type of situation.
