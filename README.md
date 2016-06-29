@@ -65,6 +65,7 @@ If you want to print this off then use [THIS!](https://gitprint.com/)
 * [PureCSS](http://purecss.io/) - A set of small, responsive CSS modules that you can use in every web project.
 * [PicnicCSS](http://picnicss.com/) - A very lightweight and powerful CSS library with responsive, compressed css.
 * [Can I Use](http://caniuse.com/) - Find out what css works on what browsers. simply type a style (e.g. "text-decoration") or something like svg and view which browsers can and cannot use it. 
+* [Elastic Slider](https://github.com/lmgonzalves/elastic-slider) - an attractive elastic slider made using css and js.
 
 ## Online Tools
 * [LinqPad](https://www.linqpad.net/) - a tool that allows you to query a database using LINQ in its own environment. This is a great tool for learning how LINQ works. The free version is very powerful.
