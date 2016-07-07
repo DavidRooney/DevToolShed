@@ -28,7 +28,7 @@ If you want to print this off then use [THIS!](https://gitprint.com/)
 * [Dropbox](https://www.dropbox.com/) - Online File transfer app.
 * [Gigjam](https://www.microsoft.com/gigjam) - Business to Client communication platform by Microsoft. allows a customer to easily and quickly review documents, edit them or sign them off. Also works on all devices. Video on the home page shows how powerful this is.
 * [Postman](https://www.getpostman.com/) - A chrome app for sending http request. Makes testing an API much easier!
-* [CatLight](https://catlight.io/) - build notification app. Easy to set up with various build platforms including TFS and a very attractive app to view current builds and notify if one breaks.
+* [CatLight](https://catlight.io/) - build notification service that can run on windows and macs. Easy to set up with various build platforms including TFS and a very attractive app to view current builds and notify if one breaks.
 
 ## Social Media
 * [Twitter](https://twitter.com/) - A good resource for keeping up to date. I have a dev account set up which I use to just follow people within my industry. This helps me stay up to date. To see who I have followed look at my dev twitter handle @DaveRooney_Dev.
