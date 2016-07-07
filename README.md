@@ -15,6 +15,7 @@ If you want to print this off then use [THIS!](https://gitprint.com/)
 * [BundlerMinifier](https://visualstudiogallery.msdn.microsoft.com/9ec27da7-e24b-4d56-8064-fd7e88ac1c40) - Adds support for bundling and minifying JavaScript, CSS and HTML files in any project
 * [GhostDoc](http://submain.com/products/ghostdoc.aspx) - automatically generates XML documentation comments for methods and properties based on their type, parameters, name, and other contextual information
 * [ReSharper](https://visualstudiogallery.msdn.microsoft.com/ea4ac039-1b5c-4d11-804e-9bede2e63ecf) - ReSharper is a popular developer productivity extension for Microsoft Visual Studio. It automates most of what can be automated in your coding routines. It finds compiler errors, runtime errors, redundancies, code smells, and possible improvements right as you type, suggesting intelligent corrections for them
+* [StyleCop](https://visualstudiogallery.msdn.microsoft.com/cac2a05b-6eb6-4fa2-95b9-1f8d011e6cae) - Enforces a common set of style rules for C# code. Keeps code consistent across projects.
 
 ## Apps
 * [Instapaper](https://www.instapaper.com/u) - Save any article on the Web into your personal Instapaper account. Can then use any device to read them later. Can create folders and drag articles into folders that you want to save and organize. Can also be used to save notes and videos.
@@ -26,6 +27,8 @@ If you want to print this off then use [THIS!](https://gitprint.com/)
 * [Google Hangouts](https://hangouts.google.com/) - A free messaging app that can be used to make calls and send images.
 * [Dropbox](https://www.dropbox.com/) - Online File transfer app.
 * [Gigjam](https://www.microsoft.com/gigjam) - Business to Client communication platform by Microsoft. allows a customer to easily and quickly review documents, edit them or sign them off. Also works on all devices. Video on the home page shows how powerful this is.
+* [Postman](https://www.getpostman.com/) - A chrome app for sending http request. Makes testing an API much easier!
+* [CatLight](https://catlight.io/) - build notification app. Easy to set up with various build platforms including TFS and a very attractive app to view current builds and notify if one breaks.
 
 ## Social Media
 * [Twitter](https://twitter.com/) - A good resource for keeping up to date. I have a dev account set up which I use to just follow people within my industry. This helps me stay up to date. To see who I have followed look at my dev twitter handle @DaveRooney_Dev.
@@ -46,6 +49,7 @@ If you want to print this off then use [THIS!](https://gitprint.com/)
 * [LargeEventCalendar](http://fullcalendar.io/) - [github](https://github.com/elebetsamer/fullcalendar). A very good interactive drag and drop calendar made using jQuery.
 
 ## Web & CSS Related
+* [TestMyCSS](http://www.testmycss.com/) - An online tool to give a detailed Analysis of your websites CSS. offers lots of useful fixes too!
 * [Effeckt.css](http://h5bp.github.io/Effeckt.css/) - CSS Library of attractive animations for every type of situation.
 * [Bootstrap](http://getbootstrap.com/) - A popular HTML, CSS, and JS framework for developing responsive websites.
 * [Hamburgers](https://github.com/jonsuh/hamburgers) - CSS animated hamburger navigation icons.
@@ -59,7 +63,7 @@ If you want to print this off then use [THIS!](https://gitprint.com/)
 * [GitHubPages](https://pages.github.com/) - A quick and easy way to host and test a simple website.
 * [ZurbPlayground](http://zurb.com/playground) - A good resource of attractive CSs and JavaScript experiments.
 * [BEM](https://en.bem.info/methodology/key-concepts/) - A CSS Framework. a good explanation can be found [here](https://css-tricks.com/bem-101/).
-* [SuitCSS] (https://suitcss.github.io/) - A CSS Framework. A reliable and testable styling methodology for component-based UI development. A collection of CSS packages and build tools are available as modules. SUIT CSS plays well with React, Ember, Angular, and other component-based approaches to UI development.
+* [SuitCSS](https://suitcss.github.io/) - A CSS Framework. A reliable and testable styling methodology for component-based UI development. A collection of CSS packages and build tools are available as modules. SUIT CSS plays well with React, Ember, Angular, and other component-based approaches to UI development.
 * [CSS3Patterns](http://lea.verou.me/css3patterns/) - CSS Background patterns.
 * [CSSAnimations](http://www.justinaguilar.com/animations/) - CSS3 Animations cheat sheet and examples.
 * [PureCSS](http://purecss.io/) - A set of small, responsive CSS modules that you can use in every web project.
@@ -67,16 +71,24 @@ If you want to print this off then use [THIS!](https://gitprint.com/)
 * [Can I Use](http://caniuse.com/) - Find out what css works on what browsers. simply type a style (e.g. "text-decoration") or something like svg and view which browsers can and cannot use it. 
 * [Elastic Slider](https://github.com/lmgonzalves/elastic-slider) - an attractive elastic slider made using css and js.
 * [Animated Letters](https://github.com/lmgonzalves/letters) - A JS library that will animate letters.
+* [BalloonCSS](http://kazzkiq.github.io/balloon.css/) - A tool tip pure css library. very easy to plug in and use.
+* [Gradient Editor](http://www.colorzilla.com/gradient-editor/) - Online tool, CSS gradient generator.
+* [TinyPNG](https://tinypng.com/) - Online tool to compress an image.
+* [URI Generator](http://dopiaza.org/tools/datauri/index.php) - Create a URL from an image or plain text.
 
 ## Online Tools
+* [Atom](https://atom.io/) - A web text editro made by github. very powerful and fast.
 * [LinqPad](https://www.linqpad.net/) - a tool that allows you to query a database using LINQ in its own environment. This is a great tool for learning how LINQ works. The free version is very powerful.
 * [Swagger](http://swagger.io/) - RESTful API documentation. Used to create attractive documentation for an API. An online editor can be used to create the documentation and it can be exported in many languages including c# so that it can be placed within a project.
 * [Plunker](http://plnkr.co/) - Free developer environment tool. Allows a user to create html and js files and run the quickly and easily using an online web tool. Allows a user to save code to a profile that links to github. Makes for a quick way of testing new things!
 * [Canva](https://www.canva.com/) - A free web tool for creating designs quickly that look good. [Features](https://www.canva.com/features/) and examples. Can be used to create websites, apps, leaflets, etc.
 * [CodePen](http://codepen.io/) - A free online developer tool Similar to Plunker. More aimed at front-end dev allowing only 1 html, css and js file to edit. A good tool for sharing snippets and testing code. A much more attractive tool than Plunker. Not as powerful in terms of a creating and testing a full product, but can work well with a variety of languages e.g. SLIM, SASS, CoffeScript as it has its own compilers. Community is also much more active.
+* [JSFiddle](https://jsfiddle.net/) - HTML, JS, CSS Online editor. A lot like codePen but without the community. A good way to quickly test out some javascript or css.
 * [Regexr](http://regexr.com/) - A Regular Expression online Editor.
 * [Regex101](https://regex101.com/) - A Regular Expression online Editor.
 * [GooglePageSpeed](https://developers.google.com/speed/pagespeed/insights/) - Test how a website performs. [A front-end that uses google pagespeed](https://testmysite.thinkwithgoogle.com/).
+* [DragDis](https://dragdis.com) - Store links, images, designs, web templates, pretty much anything, by dragging it into a folder straight in the browser. Simply click and drag and a folder panel appears. A chrome plugin is need so it only works with chrome.
+* [Muzli](https://muz.li/) - A chrome extension that aggregates the latest disgn based articles based on design websites. when opening a new tab is will show the feed.
 
 ## People
 * [Scott Hanselman](http://www.hanselman.com/) - A Microsoft developer, blogger and speaker.
@@ -125,6 +137,8 @@ If you want to print this off then use [THIS!](https://gitprint.com/)
 * [Browser Calories](https://chrome.google.com/webstore/detail/browser-calories/pdkibgfjegigkoaleelbkdpkgceljfco?hl=en) - Measures page performance.
 * [Instapaper plugin](https://chrome.google.com/webstore/detail/instapaper/ldjkgaaoikpmhmkelcgkgacicjfbofhh?hl=en) - Save a webpage to Instapaper with a single button click.
 * [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen?hl=en) - A spell checker.
+* [DragDis](https://dragdis.com) - This is the plugin needed to use the online tool. look in the online tools section for a better description.
+* [wappalyzer](https://wappalyzer.com) - see what libraries a website is using.
 
 ## Software
 * [RealVNC](https://www.realvnc.com) - Remote desktop access. Easy software for setting up RDP and free for non-commercial use.
@@ -140,16 +154,18 @@ If you want to print this off then use [THIS!](https://gitprint.com/)
 ## Learning Resources
 * [Pluralsight](https://www.pluralsight.com/) - A very good video only learning resource for business people, developers and designers.
 * [Lynda](http://www.lynda.com/in/general2) (LinkedIn) - A video learning resourced focusing on wider business skills.
-* [YouTube](https://www.youtube.com/) - Notes about this written in the 'social media' section.
 
 ## CMS
 * [Orchard](http://orchardproject.net/) - A Free CMS created by Microsoft developers. Extremely powerful. [github code](https://github.com/OrchardCMS/Orchard).
 * [Orcahrd2](https://github.com/OrchardCMS/Orchard2) - A reimplementation of Orchard CMS using .NET Core.
 * [Umbraco](http://umbraco.com/) - A Free and very attractive and easy to use CMS. [github code](https://github.com/umbraco/Umbraco-CMS). Not as powerful as Orchard but the CMS is much easier to use and understand.
 * [Django](http://www.django-cms.org/) - A popular CMS written in Python and JavaScript. very powerful and attractive. [github code](https://github.com/divio/django-cms).
+* [EPIServer](http://www.episerver.com/) - A .NET CMS but is costly.
+* [SiteCore](http://www.sitecore.net/) - A very powerful .NET CMS with a alrge community and support, but is very costly.
 
 ## Services
 * [Octopus](https://octopus.com/) - .NET deployment tool. Free for 5 users to 10 machines. 20 users,projects, machines for $700 per year. 60 = $2000, unlimited = $5000.
+* [TeamCity](https://www.jetbrains.com/teamcity/) - Continuious integration service. Free version but can get expensive quickly when purchasing servers. [Pricing](https://www.jetbrains.com/teamcity/buy/#license-type=new-license).
 * [Gatling](http://gatling.io/#/) - Free open source load testing framework.
 * [JIRA](https://www.atlassian.com/software/jira) - A software development tool for task management used by agile teams.
 * [Bonusly](https://bonus.ly/) - An online service to give bonus'. This is a paid service that can control how bonus' are given out within a company. A manager or individual is given a bonus allowance that they can give out to colleagues in small increments to recognize achievements. Free for up to 8 users. £2.27 pcm for the standard version allowing unlimited users ([pricing](https://bonus.ly/pricing)).
@@ -164,6 +180,7 @@ If you want to print this off then use [THIS!](https://gitprint.com/)
 * [Trello](https://trello.com/home) - A free service and online tool for managing and organizing projects. Makes use of "boards" to promote an agile approach collaboration between members of a board. [Pricing](https://trello.com/pricing) is free but offers a business version for $8.33 pcm (integrates with other online apps e.g. dropbox, github, mailchimp, slack) and an Enterprise version for $20.83 pcm.
 * [Mailchimp](http://mailchimp.com/) - Email automation service. [Pricing](http://mailchimp.com/pricing/) is Free from up to 2000 subscribers and 12,000 emails pcm, to £18.19 pcm for 2000 subscribers and unlimited emails pcm. There is also a pay-as-you-go option.
 * [InVision](https://www.invisionapp.com/) - Design prototyping online tool. can be used to create website, mobile and tablet interactive designs. [Pricing](https://www.invisionapp.com/plans) is free for 1 prototype, $15 pcm for 3 and $99 pcm for unlimited.
+* [Zeplin](https://zeplin.io) - Another sesign prototyping online tool. can be used to create website, mobile and tablet interactive designs. [Pricing](https://zeplin.io/pricing.html) is free for 1 prototype, $15 pcm for 3 and $100 pcm for unlimited.
 * [Salesforce](http://www.salesforce.com/uk/) - CRM solution
 
 ## Extras
