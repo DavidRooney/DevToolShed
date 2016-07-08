@@ -97,6 +97,7 @@ If you want to print this off then use [THIS!](https://gitprint.com/)
 * [Harry Roberts](http://csswizardry.com/) - A Consultant Front-end Architect, designer, developer, writer and speaker from the UK. Specialises in CSS and front-end [github](https://github.com/csswizardry).
 * [Jamie Coulter](http://www.jamiecoulter.co.uk/) - A designer and front-end developer. [codePen](http://codepen.io/jcoulterdesign/).
 * [Paul Boag](https://boagworld.com/) - A UX consultant.
+* [Fredrik Haren](http://fredrikharen.com/) - Global speaker about innovation.
 
 ## News Feeds & Podcasts
 * [HackerNews](https://news.ycombinator.com/) - My Number 1 resource for keeping up to date with the altest tech news. Can often find some hidden gems here. I like to use the [newest tab to get the latest news](https://news.ycombinator.com/newest).
