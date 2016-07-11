@@ -141,7 +141,7 @@ If you want to print this off then use [THIS!](https://gitprint.com/)
 * [Instapaper plugin](https://chrome.google.com/webstore/detail/instapaper/ldjkgaaoikpmhmkelcgkgacicjfbofhh?hl=en) - Save a webpage to Instapaper with a single button click.
 * [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen?hl=en) - A spell checker.
 * [DragDis](https://dragdis.com) - This is the plugin needed to use the online tool. look in the online tools section for a better description.
-* [wappalyzer](https://wappalyzer.com) - see what libraries a website is using.
+* [wappalyzer](https://wappalyzer.com) - see what libraries a website is using. Check out the [Github](https://github.com/AliasIO/Wappalyzer) repository to see how the code works.
 
 ## Software
 * [RealVNC](https://www.realvnc.com) - Remote desktop access. Easy software for setting up RDP and free for non-commercial use.
