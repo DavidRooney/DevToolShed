@@ -29,6 +29,7 @@ If you want to print this off then use [THIS!](https://gitprint.com/)
 * [Gigjam](https://www.microsoft.com/gigjam) - Business to Client communication platform by Microsoft. allows a customer to easily and quickly review documents, edit them or sign them off. Also works on all devices. Video on the home page shows how powerful this is.
 * [Postman](https://www.getpostman.com/) - A chrome app for sending http request. Makes testing an API much easier!
 * [CatLight](https://catlight.io/) - build notification service that can run on windows and macs. Easy to set up with various build platforms including TFS and a very attractive app to view current builds and notify if one breaks.
+* [StopClock](http://free-stopwatch.com/online.html) - A Free windows stop clock app. A simple app that can help with some basic time tracking.
 
 ## Social Media
 * [Twitter](https://twitter.com/) - A good resource for keeping up to date. I have a dev account set up which I use to just follow people within my industry. This helps me stay up to date. To see who I have followed look at my dev twitter handle @DaveRooney_Dev.
@@ -184,6 +185,7 @@ If you want to print this off then use [THIS!](https://gitprint.com/)
 * [Trello](https://trello.com/home) - A free service and online tool for managing and organizing projects. Makes use of "boards" to promote an agile approach collaboration between members of a board. [Pricing](https://trello.com/pricing) is free but offers a business version for $8.33 pcm (integrates with other online apps e.g. dropbox, github, mailchimp, slack) and an Enterprise version for $20.83 pcm.
 * [Mailchimp](http://mailchimp.com/) - Email automation service. [Pricing](http://mailchimp.com/pricing/) is Free from up to 2000 subscribers and 12,000 emails pcm, to £18.19 pcm for 2000 subscribers and unlimited emails pcm. There is also a pay-as-you-go option.
 * [InVision](https://www.invisionapp.com/) - Design prototyping online tool. can be used to create website, mobile and tablet interactive designs. [Pricing](https://www.invisionapp.com/plans) is free for 1 prototype, $15 pcm for 3 and $99 pcm for unlimited.
+* [Adobe XD](http://www.adobe.com/uk/products/experience-design.html#x) - Prototyping software currently in "Preview" mode so not yet available. Also not available on Windows yet but worth keeping an eye on as it seems like it could be the best prototyping service out there.
 * [Zeplin](https://zeplin.io) - Another sesign prototyping online tool. can be used to create website, mobile and tablet interactive designs. [Pricing](https://zeplin.io/pricing.html) is free for 1 prototype, $15 pcm for 3 and $100 pcm for unlimited.
 * [Salesforce](http://www.salesforce.com/uk/) - CRM solution
 * [Exceptionless](https://exceptionless.com/) - An Error logging service that is easy to implement with .NET code. It can track errors that occur in detail the stack trace and how to recreate the error. [Pricing](https://exceptionless.com/pricing/) is free for a single user on a single project, and then ranging from $15 to $500 depending on users and projects.
