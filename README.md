@@ -49,6 +49,7 @@ If you want to print this off then use [THIS!](https://gitprint.com/)
 * [BootBoxJS](http://bootboxjs.com/) - a js library for modal pop ups that uses bootstrap classes.
 * [LargeEventCalendar](http://fullcalendar.io/) - [github](https://github.com/elebetsamer/fullcalendar). A very good interactive drag and drop calendar made using jQuery.
 * [Impress.JS](https://github.com/impress/impress.js) - A js library that can be used to create presentations much like Prezzi. [example](https://klaeser.me/presentations/dost_2015_alexander_klaeser_univention/#/titel).
+* [HammerJS](http://hammerjs.github.io/) - Add touch gestures to a web page.. [Github](https://github.com/hammerjs/hammer.js).
 
 ## Web & CSS Related
 * [TestMyCSS](http://www.testmycss.com/) - An online tool to give a detailed Analysis of your websites CSS. offers lots of useful fixes too!
