@@ -80,6 +80,7 @@ If you want to print this off then use [THIS!](https://gitprint.com/)
 * [TinyPNG](https://tinypng.com/) - Online tool to compress an image.
 * [URI Generator](http://dopiaza.org/tools/datauri/index.php) - Create a URL from an image or plain text.
 * [CSSShake](https://elrumordelaluz.github.io/csshake/) - A Css library that can be used to make a dom shake.
+* [SpriteCow](http://www.spritecow.com/) - A website tool used to measure icon sizes withing a sprite file. very easy to use. 
 
 ## Online Tools
 * [Atom](https://atom.io/) - A web text editro made by github. very powerful and fast.
@@ -93,7 +94,6 @@ If you want to print this off then use [THIS!](https://gitprint.com/)
 * [Regex101](https://regex101.com/) - A Regular Expression online Editor.
 * [GooglePageSpeed](https://developers.google.com/speed/pagespeed/insights/) - Test how a website performs. [A front-end that uses google pagespeed](https://testmysite.thinkwithgoogle.com/).
 * [DragDis](https://dragdis.com) - Store links, images, designs, web templates, pretty much anything, by dragging it into a folder straight in the browser. Simply click and drag and a folder panel appears. A chrome plugin is need so it only works with chrome.
-* [Muzli](https://muz.li/) - A chrome extension that aggregates the latest disgn based articles based on design websites. when opening a new tab is will show the feed.
 
 ## People
 * [Scott Hanselman](http://www.hanselman.com/) - A Microsoft developer, blogger and speaker.
@@ -145,6 +145,8 @@ If you want to print this off then use [THIS!](https://gitprint.com/)
 * [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen?hl=en) - A spell checker.
 * [DragDis](https://dragdis.com) - This is the plugin needed to use the online tool. look in the online tools section for a better description.
 * [wappalyzer](https://wappalyzer.com) - see what libraries a website is using. Check out the [Github](https://github.com/AliasIO/Wappalyzer) repository to see how the code works.
+* [start.me](https://start.me/start/gb/start-page) - A custom chrome browser dashboard that can be set up exactly as you need when opening a new tab.
+* [muz.li](http://muz.li/) - Another chrome dashboard for opening a enw tab. built for designers and offers lots of interesting articles and news collected from websites you can select from.
 
 ## Software
 * [RealVNC](https://www.realvnc.com) - Remote desktop access. Easy software for setting up RDP and free for non-commercial use.
