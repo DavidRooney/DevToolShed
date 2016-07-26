@@ -147,6 +147,7 @@ If you want to print this off then use [THIS!](https://gitprint.com/)
 * [wappalyzer](https://wappalyzer.com) - see what libraries a website is using. Check out the [Github](https://github.com/AliasIO/Wappalyzer) repository to see how the code works.
 * [start.me](https://start.me/start/gb/start-page) - A custom chrome browser dashboard that can be set up exactly as you need when opening a new tab.
 * [muz.li](http://muz.li/) - Another chrome dashboard for opening a enw tab. built for designers and offers lots of interesting articles and news collected from websites you can select from.
+* [ClearCache](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn?utm_source=chrome-app-launcher-info-dialog) - A quick and simple way to clear the browser cache. Sometimes this is needed when ctrl+F5 doesn't work.
 
 ## Software
 * [RealVNC](https://www.realvnc.com) - Remote desktop access. Easy software for setting up RDP and free for non-commercial use.
