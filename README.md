@@ -53,7 +53,6 @@ If you want to print this off then use [THIS!](https://gitprint.com/)
 * [CleaveJS](https://nosir.github.io/cleave.js/) - Auto Validation JS. Lots of built in formating for <input> fields. [Github](https://github.com/nosir/cleave.js).
 
 ## Web & CSS Related
-* [TestMyCSS](http://www.testmycss.com/) - An online tool to give a detailed Analysis of your websites CSS. offers lots of useful fixes too!
 * [Effeckt.css](http://h5bp.github.io/Effeckt.css/) - CSS Library of attractive animations for every type of situation.
 * [Bootstrap](http://getbootstrap.com/) - A popular HTML, CSS, and JS framework for developing responsive websites.
 * [Hamburgers](https://github.com/jonsuh/hamburgers) - CSS animated hamburger navigation icons.
@@ -77,7 +76,6 @@ If you want to print this off then use [THIS!](https://gitprint.com/)
 * [Animated Letters](https://github.com/lmgonzalves/letters) - A JS library that will animate letters.
 * [BalloonCSS](http://kazzkiq.github.io/balloon.css/) - A tool tip pure css library. very easy to plug in and use.
 * [Gradient Editor](http://www.colorzilla.com/gradient-editor/) - Online tool, CSS gradient generator.
-* [TinyPNG](https://tinypng.com/) - Online tool to compress an image.
 * [URI Generator](http://dopiaza.org/tools/datauri/index.php) - Create a URL from an image or plain text.
 * [CSSShake](https://elrumordelaluz.github.io/csshake/) - A Css library that can be used to make a dom shake.
 * [SpriteCow](http://www.spritecow.com/) - A website tool used to measure icon sizes withing a sprite file. very easy to use. 
@@ -94,6 +92,9 @@ If you want to print this off then use [THIS!](https://gitprint.com/)
 * [Regex101](https://regex101.com/) - A Regular Expression online Editor.
 * [GooglePageSpeed](https://developers.google.com/speed/pagespeed/insights/) - Test how a website performs. [A front-end that uses google pagespeed](https://testmysite.thinkwithgoogle.com/).
 * [DragDis](https://dragdis.com) - Store links, images, designs, web templates, pretty much anything, by dragging it into a folder straight in the browser. Simply click and drag and a folder panel appears. A chrome plugin is need so it only works with chrome.
+* [CSSStats](http://cssstats.com/) - An online tool that will analyse a websites CSS and give some informative information about it.
+* [TestMyCSS](http://www.testmycss.com/) - An online tool to give a detailed Analysis of your websites CSS. offers lots of useful fixes too!
+* [TinyPNG](https://tinypng.com/) - Online tool to compress an image.
 
 ## People
 * [Scott Hanselman](http://www.hanselman.com/) - A Microsoft developer, blogger and speaker.
