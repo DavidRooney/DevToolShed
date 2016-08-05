@@ -94,7 +94,7 @@ If you want to print this off then use [THIS!](https://gitprint.com/)
 * [DragDis](https://dragdis.com) - Store links, images, designs, web templates, pretty much anything, by dragging it into a folder straight in the browser. Simply click and drag and a folder panel appears. A chrome plugin is need so it only works with chrome.
 * [CSSStats](http://cssstats.com/) - An online tool that will analyse a websites CSS and give some informative information about it.
 * [TestMyCSS](http://www.testmycss.com/) - An online tool to give a detailed Analysis of your websites CSS. offers lots of useful fixes too!
-* [TinyPNG](https://tinypng.com/) - Online tool to compress an image.
+* [TinyPNG](https://tinypng.com/) & [TinyJPG](https://tinyjpg.com/) - Online tool to compress an image.
 
 ## People
 * [Scott Hanselman](http://www.hanselman.com/) - A Microsoft developer, blogger and speaker.
