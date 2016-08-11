@@ -30,6 +30,9 @@ If you want to print this off then use [THIS!](https://gitprint.com/)
 * [Postman](https://www.getpostman.com/) - A chrome app for sending http request. Makes testing an API much easier!
 * [CatLight](https://catlight.io/) - build notification service that can run on windows and macs. Easy to set up with various build platforms including TFS and a very attractive app to view current builds and notify if one breaks.
 * [StopClock](http://free-stopwatch.com/online.html) - A Free windows stop clock app. A simple app that can help with some basic time tracking.
+* [Gatling](http://gatling.io/#/) - Free stress testing tool. [Github](https://github.com/gatling/gatling)
+* [WebSurge](http://websurge.west-wind.com/) - Load testing application. Offers a free version and is very easy to use. home page also has a very good 20min tutorial. However requires a license to use commercially starting at $149.
+* [Netling](https://github.com/hallatore/Netling) - Another free load testing app available on github. This does not have the same features as Websurge and Gatling but is a good quick load testing tool.
 
 ## Social Media
 * [Twitter](https://twitter.com/) - A good resource for keeping up to date. I have a dev account set up which I use to just follow people within my industry. This helps me stay up to date. To see who I have followed look at my dev twitter handle @DaveRooney_Dev.
@@ -177,7 +180,6 @@ If you want to print this off then use [THIS!](https://gitprint.com/)
 ## Services
 * [Octopus](https://octopus.com/) - .NET deployment tool. Free for 5 users to 10 machines. 20 users,projects, machines for $700 per year. 60 = $2000, unlimited = $5000.
 * [TeamCity](https://www.jetbrains.com/teamcity/) - Continuious integration service. Free version but can get expensive quickly when purchasing servers. [Pricing](https://www.jetbrains.com/teamcity/buy/#license-type=new-license).
-* [Gatling](http://gatling.io/#/) - Free open source load testing framework.
 * [JIRA](https://www.atlassian.com/software/jira) - A software development tool for task management used by agile teams.
 * [Asana](https://asana.com/) - An online task management service. very attractive and easy to use. Not really suitable for Development teams that work in an agile environment as it is essentially a task list that can have dates, comments and files attached to them. Has a good mobile and tablet app. [Pricing](https://asana.com/pricing) is free for up to 15 people. $8.33 pcm per person for more than 15 or to use extra features.
 * [Bonusly](https://bonus.ly/) - An online service to give bonus'. This is a paid service that can control how bonus' are given out within a company. A manager or individual is given a bonus allowance that they can give out to colleagues in small increments to recognize achievements. Free for up to 8 users. £2.27 pcm for the standard version allowing unlimited users ([pricing](https://bonus.ly/pricing)).
