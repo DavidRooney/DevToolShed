@@ -16,6 +16,7 @@ If you want to print this off then use [THIS!](https://gitprint.com/)
 * [GhostDoc](http://submain.com/products/ghostdoc.aspx) - automatically generates XML documentation comments for methods and properties based on their type, parameters, name, and other contextual information
 * [ReSharper](https://visualstudiogallery.msdn.microsoft.com/ea4ac039-1b5c-4d11-804e-9bede2e63ecf) - ReSharper is a popular developer productivity extension for Microsoft Visual Studio. It automates most of what can be automated in your coding routines. It finds compiler errors, runtime errors, redundancies, code smells, and possible improvements right as you type, suggesting intelligent corrections for them
 * [StyleCop](https://visualstudiogallery.msdn.microsoft.com/cac2a05b-6eb6-4fa2-95b9-1f8d011e6cae) - Enforces a common set of style rules for C# code. Keeps code consistent across projects.
+* [Github extension](https://visualstudio.github.com/) - A useful extension that allows you interact directly with your personal github.
 
 ## Apps
 * [Instapaper](https://www.instapaper.com/u) - Save any article on the Web into your personal Instapaper account. Can then use any device to read them later. Can create folders and drag articles into folders that you want to save and organize. Can also be used to save notes and videos.
