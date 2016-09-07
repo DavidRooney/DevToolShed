@@ -84,6 +84,7 @@ If you want to print this off then use [THIS!](https://gitprint.com/)
 * [URI Generator](http://dopiaza.org/tools/datauri/index.php) - Create a URL from an image or plain text.
 * [CSSShake](https://elrumordelaluz.github.io/csshake/) - A Css library that can be used to make a dom shake.
 * [SpriteCow](http://www.spritecow.com/) - A website tool used to measure icon sizes withing a sprite file. very easy to use. 
+* [Google Console](https://www.google.com/webmasters/tools/home?hl=en) - VERY IMPORTANT TOOL FOR WEB DEV. Use this to make sure your website is google friendly.
 
 ## Online Tools
 * [Atom](https://atom.io/) - A web text editro made by github. very powerful and fast.
