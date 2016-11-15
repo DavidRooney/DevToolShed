@@ -10,6 +10,7 @@ If you want to print this off then use [THIS!](https://gitprint.com/)
 * [Kiln](http://www.fogcreek.com/kiln/) - Version Control and Source Code Hosting. [Pricing](http://www.fogcreek.com/kiln/pricing/) from $18 for 5 users, to $1080 PCM for 500 users.
 
 ## Visual Studio
+* [MadsKristensen Extenstions Video](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Mads-Kristensen-Extensions)
 * [WebCompiler](https://visualstudiogallery.msdn.microsoft.com/3b329021-cd7a-4a01-86fc-714c2d05bb6c) - An extension for compiling SASS, LESS, CoffeeScript.
 * [WebEssentials](http://vswebessentials.com/) - Has too many features to summarize here!. Just get it and look.
 * [BundlerMinifier](https://visualstudiogallery.msdn.microsoft.com/9ec27da7-e24b-4d56-8064-fd7e88ac1c40) - Adds support for bundling and minifying JavaScript, CSS and HTML files in any project
