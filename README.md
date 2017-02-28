@@ -102,6 +102,7 @@ If you want to print this off then use [THIS!](https://gitprint.com/)
 * [CSSStats](http://cssstats.com/) - An online tool that will analyse a websites CSS and give some informative information about it.
 * [TestMyCSS](http://www.testmycss.com/) - An online tool to give a detailed Analysis of your websites CSS. offers lots of useful fixes too!
 * [TinyPNG](https://tinypng.com/) & [TinyJPG](https://tinyjpg.com/) - Online tool to compress an image.
+* [ScreenToGif](http://www.screentogif.com/) - a github porject for recording videos and converting them into a gif. can also be used to record your screen and save in a video format. [github](https://github.com/NickeManarin/ScreenToGif).
 
 ## People
 * [Scott Hanselman](http://www.hanselman.com/) - A Microsoft developer, blogger and speaker.
